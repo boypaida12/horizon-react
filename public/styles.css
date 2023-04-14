@@ -1,0 +1,42 @@
+.c-item img {
+    height: 80vh !important;
+    object-fit: cover;
+    object-position: 15% 25%;
+    filter: brightness(0.5);
+    
+}
+
+.card img {
+    height: 30vh;
+    object-fit: cover;
+    object-position: 25% 25%;
+    filter: brightness(0.7);
+}
+
+.price {
+    margin: 50px
+}
+
+.price h1 {
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: #0E4399;
+    color: whitesmoke;
+    padding: 20px;
+}
+
+.blue {
+    color: #0E4399;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+footer a:hover {
+    color: inherit;
+    text-decoration: underline;
+}
